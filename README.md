@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MyShoppingApp](https://github.com/MEmreCihan/MyShoppingApp)
 
-- 🌱 I’m currently learning **React.js and Web3**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **memrecihan@outlook.com**
 
